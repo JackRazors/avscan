@@ -1,10 +1,3 @@
-#  _____   _____
-# |  __ \ / ____|  /\
-# | |  ) | (___   /  \
-# | | \  / \___ \/ /\ \
-# | | \ \ ____) / /  \ \
-# |_|  \_\_____/_/    \_\
-#
 # OPSWAT Metascan scanner
 # Author: Ian Redden <ian.redden@rsa.com>
 # 6/23/2020 rev. 5
